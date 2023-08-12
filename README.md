@@ -9,4 +9,4 @@ Responsive Admin Dashboard Using HTML CSS &amp; JavaScript with Light &amp; Dark
 
 ## Live Demo
 
-Check out the live demo of the Task List Application [here](https://chanatinart02.github.io/Admin-Dashboard/#)
+Check out the live demo of the Admin Dashboard [here](https://chanatinart02.github.io/Admin-Dashboard/#)
